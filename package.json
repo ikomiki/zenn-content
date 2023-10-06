@@ -1,15 +1,22 @@
 {
-  "name": "zen-content",
+  "name": "zenn-content",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lint": "textlint articles/**/*.md books/**/*.md"
   },
   "keywords": [],
-  "author": "",
+  "author": "ikomiki <ikomiki@gmail.com> (https://qiita.com/ikomiki)",
   "license": "ISC",
   "dependencies": {
-    "zenn-cli": "^0.1.134"
+    "zenn-cli": "^0.1.144"
+  },
+  "devDependencies": {
+    "textlint": "^13.3.3",
+    "textlint-rule-preset-ja-spacing": "^2.3.0",
+    "textlint-rule-preset-ja-technical-writing": "^8.0.0",
+    "textlint-rule-spellcheck-tech-word": "^5.0.0"
   }
 }
