@@ -1,5 +1,5 @@
 ---
-title: "OWL-ViT(オープンボキャブラリー物体検出モデル)を利用した物体検出アプリの実装と知見"
+title: "OWL-ViT(オープンボキャブラリー物体検出モデル)のプロンプトの癖"
 emoji: "📷"
 type: "tech" # tech: 技術記事 / idea: アイデア
 topics: ["Python", "機械学習", "OWLViT"]
