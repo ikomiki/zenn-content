@@ -10,7 +10,7 @@ published: false
 
 <!-- cSpell:ignore beautiful  -->
 
-[OWL-ViT](https://huggingface.co/docs/transformers/model_doc/owlvit)モデルを使用した物体検出 stream-lit アプリケーションを実装したうえで、得られた知見を共有します。
+[OWL-ViT](https://huggingface.co/docs/transformers/model_doc/owlvit)モデルを使用した物体検出 streamlit アプリケーションを実装したうえで、得られた知見を共有します。
 
 コードについての説明は行いません（AI 生成なので、説明できるところがないとも）。
 
