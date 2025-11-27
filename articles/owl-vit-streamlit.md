@@ -35,7 +35,7 @@ OWL-ViT の学習データの癖のようです。
 **`a food`で検索（スコア:ネギが 0.52，そばが 0.36）**
 ![`a food`で検索](/images/owl-vit-streamlit/soba-food.png)
 
-**`a onion`(ネギ)で検索（スコア:0.05〜0.11）** ※ `a long onoin`(長ネギ) だと 0.05〜0.09 に下がる
+**`a onion`(ネギ)で検索（スコア:0.05〜0.11）** ※ `a long onion`(長ネギ) だと 0.05〜0.09 に下がる
 ![`a soba`で検索](/images/owl-vit-streamlit/soba-onion.png)
 
 **`a soba`で検索（スコア:そばが 0.10、ざるを含めた矩形が 0.13）**
